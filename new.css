@@ -1,0 +1,58 @@
+.navigationBarContent{
+  width:80%;
+  height:auto;
+  margin: 0 auto;
+/*  background-color: blue;*/
+}
+
+.nav-bar{
+ background-color:transparent !important;
+}
+
+.jumbotron{
+	background-color: transparent !important;
+}
+
+.navbar {
+    background-color: transparent !important; 
+    margin-top: 20px;
+    border: 0;
+}
+
+/* tab color */
+.nav-pills > .active > a
+.nav-pills > .active > a:hover,.nav-pills > li > a:hover {
+text-decoration: none;
+border-radius:0px;
+border-bottom-width: 2px;
+border-bottom-style: solid;
+border-bottom-color: black;
+color: #000 !important;
+font-weight: 600;
+background-color: white !important;
+}
+.nav-pills > li > a{
+    border-radius:0px;
+    color:black;
+    font-size: 120%;
+}
+
+.nav-pills > li > a:link, .nav-pills > li > a:visited{
+    color: #000 !important;
+    font-size: 90%;
+}
+/* active tab color */
+
+.mainContent{
+  width:82%;
+  height:30%;  
+  margin: 2% auto;
+  background-color: transparent !important;
+}
+
+.hr-bar{
+  border:1px solid #000;
+  width:82%;
+  margin: 2% auto;
+}
+
